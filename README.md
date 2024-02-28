@@ -1,3 +1,16 @@
+##Utilizando Flexbox
+<img width="950" alt="image" src="https://github.com/brittoruth/Visit_Recife/assets/123418514/9542babd-9dd5-4a24-861b-a0effb8661f9">
+
+
+
+
+
+
+
+
+
+
+
 #Marco Zero#
 
 <img width="927" alt="image" src="https://github.com/brittoruth/Visit_Recife-/assets/123418514/761d18e9-8e48-4b87-b7ce-e4b5dc416d6b">
