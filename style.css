@@ -1,0 +1,49 @@
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    background-color: blanchedalmond;
+    margin: 1cm;
+    padding: 2 3rem;
+
+
+}
+
+.titulo {
+
+    color: red;
+    font-size: large;
+}
+
+.ponte {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: 2px solid violet;
+}
+
+
+
+.titulo1 {
+    display: flex;
+    color: red;
+    text-align: center;
+
+}
+
+.resumo {
+    font-size: larger;
+    align-items: center;
+}
+
+.distancia {
+    border: 2px solid rgb(130, 139, 238);
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+
